@@ -13,5 +13,5 @@ Wie Giraffe immer sagt:
 > Das beste Essen bekommt man nur mit langem Hals
 
 ## Bilderkennung
-<img src="https://commons.wikimedia.org/wiki/Category:Lego_giraffe_(Berlin-Tiergarten)#/media/File:Germany-04374_-_Legoland_(30300930406).jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Germany-04374_-_Legoland_%2830300930406%29.jpg"/>
 
