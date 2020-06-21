@@ -8,3 +8,6 @@ und sich alles gut merken kann, beispielsweise daß die Blätter oben am grünst
 * schminkt sich gerne scheckig
 * frühstückt öfters in luftiger Höhe
 
+Wie Giraffe immer sagt:
+> Das beste Essen bekommt man nur mit langem Hals
+
